@@ -1,5 +1,3 @@
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
