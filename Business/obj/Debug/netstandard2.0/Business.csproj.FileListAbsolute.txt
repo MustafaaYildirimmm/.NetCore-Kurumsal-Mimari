@@ -5,3 +5,9 @@ D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netst
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Core.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
