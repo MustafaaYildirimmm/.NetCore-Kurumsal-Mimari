@@ -10,10 +10,11 @@ namespace DataAccess.Concrete.EF.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(connectionString: @"Server=(localdb)\MSSQLLocalDb;Database=Northwind;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(connectionString: @"Server=.;Database=Northwind;Trusted_Connection=true");
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
     }
 }
