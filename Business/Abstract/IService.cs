@@ -10,7 +10,6 @@ namespace Business.Abstract
     {
         IDataResult<TEntity> GetById(int Id);
         IDataResult<List<TEntity>> GetList();
-        IDataResult<List<TEntity>> GetListByObjectId(int Id);
         IResult Add(TEntity entity);
         IResult Delete(TEntity entity);
         IResult Update(TEntity entity);

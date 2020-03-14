@@ -8,5 +8,6 @@ namespace Business.Abstract
 {
     public interface IProductService:IService<Product>
     {
+        IDataResult<List<Product>> GetListByCategoryId(int Id);
     }
 }

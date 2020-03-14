@@ -67,17 +67,6 @@ namespace Business.Concrete
             }
         }
 
-        public IDataResult<List<Category>> GetListByObjectId(int Id)
-        {
-            try
-            {
-                return new SuccessDataResult<List<Category>>(_categoryDal.GetList(t=> t.Products.Where(k=> k.ProductId==Id) != null));
-            }
-            catch (Exception ex)
-            {
-                return new ErrorDataResult<List<Category>>(ex.ToString());
-            }
-        }
 
         public IResult Update(Category entity)
         {

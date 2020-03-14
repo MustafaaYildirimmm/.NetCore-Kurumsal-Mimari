@@ -71,7 +71,7 @@ namespace Business.Concrete
             }
         }
 
-        public IDataResult<List<Product>> GetListByObjectId(int categoryId)
+        public IDataResult<List<Product>> GetListByCategoryId(int categoryId)
         {
             try
             {

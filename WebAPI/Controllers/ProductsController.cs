@@ -35,7 +35,7 @@ namespace WebAPI.Controllers
         [HttpGet("getlistbycategory")]
         public IActionResult GetListByCategory(int categoryId)
         {
-            var result = _productService.GetListByObjectId(categoryId);
+            var result = _productService.GetListByCategoryId(categoryId);
             if (result.Success)
             {
                 return Ok(result.Data);
