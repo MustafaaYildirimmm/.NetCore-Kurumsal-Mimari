@@ -1,3 +1,7 @@
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Business.deps.json
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Business.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Business.pdb
@@ -7,9 +11,6 @@ D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netst
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Entities.pdb
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\bin\Debug\netstandard2.0\Core.pdb
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Business\obj\Debug\netstandard2.0\Business.pdb
