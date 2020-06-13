@@ -1,6 +1,4 @@
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -132,3 +130,12 @@ D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcore
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

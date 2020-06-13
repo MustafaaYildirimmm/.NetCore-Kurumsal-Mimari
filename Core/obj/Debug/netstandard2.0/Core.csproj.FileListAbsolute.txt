@@ -6,3 +6,4 @@ D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Core\obj\Debug\netstanda
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Core\obj\Debug\netstandard2.0\Core.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Core\obj\Debug\netstandard2.0\Core.pdb
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache

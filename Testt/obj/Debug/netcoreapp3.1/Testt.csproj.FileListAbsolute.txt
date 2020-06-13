@@ -49,3 +49,7 @@ D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\obj\Debug\netcorea
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\obj\Debug\netcoreapp3.1\Testt.dll
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\obj\Debug\netcoreapp3.1\Testt.pdb
 D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\obj\Debug\netcoreapp3.1\Testt.genruntimeconfig.cache
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PROJELERİM\Asp.Net Core\AspDotNetCoreKurumsalMimari\Testt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
